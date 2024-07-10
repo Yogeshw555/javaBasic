@@ -1,4 +1,4 @@
-package day6;
+package day6.staticvariable;
 
 public class Employee_Demo {
 

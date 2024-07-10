@@ -4,7 +4,7 @@
 		}
 		}
 		//Program to demonstrate class and object
-		package day3;
+		package day_3;
 		public class Object_class {
 		public static void main(String[] args) {
 		//object creation

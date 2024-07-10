@@ -1,4 +1,4 @@
-package day3;
+package day_3;
 
 public class Simple_Class {
 	
